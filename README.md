@@ -1,37 +1,38 @@
 # 👋 Hi there, I'm Andrés Amado
+📸 _Say cheese, everyone!_ 📸
 
-<img align='right' src="https://avatars.githubusercontent.com/u/935021?v=4" width="230" />
+<img align='right' src="https://github.com/acactown/acactown/raw/main/img/photo.png" width="230" />
 
 >Software Engineer, DevOps Engineer & SRE - Docker Ambassador, k8s big fan, problem solver & TMNT lover 🐢 ❤️ `:wq`
 >
 > a.k.a. @acactown
 
-## Personal Stuffs:
+## Personal stuffs
 
 * 🚀 I’m currently learning the huge Kubernetes world
-* ❤️ Open Sourcelover
+* ❤️ Open Source lover ❤️
 * 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/acactown)
 * 👾 Fun fact: When I was a kid, I wanted to be the Yo-Yo 🪀 world champion until
   I knew what I'm really passionate about; Software and the tech world!
 * 👨‍👧 I was lucky to be the father of Luciana Amado González 👧🏽, I feel very proud of it, and I want to be the best dad and the best person that she is teaching me to be every day. 🥰
 * 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/acactown/)
-* 🔖 Checkout my [Resume](./resume)
+* 🔖 Checkout my [Resume](https://github.com/acactown/acactown/raw/main/resume.pdf)
 
-## My Absolute Favorites:
+## My absolute favorites
 
-* 📝 All my mundane emails should include a smiley face or a party hat to add a dash of color or a blip of personality. I ❤️ emojis!
+* 📝 All my emails should include a smiley face or a party hat to add a dash of color. I ❤️ emojis!
 * 🍕 Hackathons, meetups & tech events
 
 ## 📱 Contact
 
 Please feel free to contact me if you want to do a PoC, validate an idea, chat about Yo-Yo tricks 🪀 (_I will not give up_), or software good practices that I did not mention before.
 
-[![Linkedin: acactown](https://img.shields.io/badge/-acactown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acactown/)](https://www.linkedin.com/in/acactown/)
-✉️ `acactown@gmail.com`
-📍Bogotá, Colombia 🇨🇴
+* [![Linkedin: acactown](https://img.shields.io/badge/-acactown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acactown/)](https://www.linkedin.com/in/acactown/)
+* ✉️ `acactown@gmail.com`
+* 📍Bogotá, Colombia 🇨🇴
 
 
-## 🙈 A little more about me:
+## 🙈 A little more about me
 
 ```yaml
 ---
