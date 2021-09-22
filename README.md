@@ -7,13 +7,13 @@
 >
 > a.k.a. @acactown
 
-## Personal stuffs
+## 👷 Personal stuff
 
-* 🚀 I’m currently learning the huge Kubernetes world
+* 🚀 I'm currently learning the huge Kubernetes world
 * ❤️ Open Source lover ❤️
 * 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/acactown)
 * 👾 Fun fact: When I was a kid, I wanted to be the Yo-Yo 🪀 world champion until
-  I knew what I'm really passionate about; Software and the tech world!
+  I knew what I was passionate about; Software and the tech world!
 * 👨‍👧 I was lucky to be the father of Luciana Amado González 👧🏽, I feel very proud of it, and I want to be the best dad and the best person that she is teaching me to be every day. 🥰
 * 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/acactown/)
 * 🔖 Checkout my [Resume](https://github.com/acactown/acactown/raw/main/resume.pdf)
@@ -25,7 +25,7 @@
 
 ## 📱 Contact
 
-Please feel free to contact me if you want to do a PoC, validate an idea, chat about Yo-Yo tricks 🪀 (_I will not give up_), or software good practices that I did not mention before.
+Please feel free to contact me if you want to do a PoC, validate an idea, chat about Yo-Yo tricks 🪀 (_I will not give up_), or good software practices that I did not mention before.
 
 * [![Linkedin: acactown](https://img.shields.io/badge/-acactown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acactown/)](https://www.linkedin.com/in/acactown/)
 * ✉️ `acactown@gmail.com`
@@ -40,12 +40,13 @@ pronoun: He|Him
 
 summary: |
   I'm a Colombian polyglot, multi-paradigm, non-dogmatic Software Engineer,
-  a self-starter, and a hands-on leader who loves technology :wq
+  a self-starter and a hands-on leader who loves technology :wq
 
 spokenLanguages:
   native: es-CO # 🇨🇴
   bilingualProficiency:
     - pt-BR # 🇧🇷
+    - groot # I am Groot 🌳
   workingProficiency:
     - en-US # 🇺🇸
   learning:
@@ -260,8 +261,8 @@ currentFocus:
   - k6
 
 funFacts:
-  - To be honest, I hate YAML but I learned how to live with it! # Yeah, who doesn't <love><repeating>everything</repeating></love>?
-  - I review it more than 50 Github profiles before create my own one # 🧩 This profile is like a Frankenstein profile
+  - To be honest, I hate YAML but, I learned how to live with it! # Yeah, who doesn't <love><repeating>everything</repeating></love>?
+  - I reviewed more than 50 Github profiles before creating my one # 🧩 This profile is like a Frankenstein profile
 ```
 
 ## ⚡ Stats
