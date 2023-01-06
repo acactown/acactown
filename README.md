@@ -52,6 +52,7 @@ spokenLanguages:
   workingProficiency:
     - en-US # 🇺🇸
   learning:
+    - fr-CA # 🇨🇦
     - nl-NL # 🇳🇱 Life isn't too short to learn Dutch 💪
 
 askMeAbout:
