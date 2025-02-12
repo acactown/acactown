@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm Andrés Amado
-📸 _Say cheese, everyone!_ 📸
 
 <img align='right' src="https://github.com/acactown/acactown/raw/main/img/photo.png" width="230" />
 
