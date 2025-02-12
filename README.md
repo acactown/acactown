@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Andrés Amado
 
-<img align='right' src="https://github.com/acactown/acactown/raw/main/img/photo.png" width="230" />
+<img align='right' src="https://github.com/acactown/acactown/raw/main/img/photo-1.png" width="230" />
 
 >Software Engineer, DevOps Engineer & SRE, a self-starter, and a hands-on leader who loves technology. Docker Ambassador, K8s big fan. Critical thinking, decision-making, and really good at solving problems. Likes to teach and learn every day. Sci-Fi passionate & TMNT lover 🐢 ❤️ `:wq`
 >
