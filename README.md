@@ -2,9 +2,9 @@
 
 <img align='right' src="https://github.com/acactown/acactown/raw/main/img/photo-1.png" width="230" />
 
->Software Engineer, DevOps Engineer & SRE, a self-starter, and a hands-on leader who loves technology. Docker Ambassador, K8s big fan. Critical thinking, decision-making, and really good at solving problems. Likes to teach and learn every day. Sci-Fi passionate & TMNT lover 🐢 ❤️ `:wq`
+>A proactive, hands-on leader with a deep passion for technology. Experienced in designing and optimizing cloud-native architectures, with expertise in Docker (Ambassador) and Kubernetes (enthusiast). Strong critical thinking and decision-making skills, excelling at solving complex problems efficiently. Passionate about knowledge sharing—always eager to teach and learn. A Sci-Fi enthusiast and lifelong TMNT fan. 🐢 ❤️ `:wq`
 >
->Good knowledge of new technologies in general, exposed to many programming languages, technologies, and platforms. 6+ years of full-time relevant experience as a DevOps/SRE and 5+ years as a Software Engineer. Experience leading teams of up to 12 people. Special skills and experience in startups.
+>Broad expertise in emerging technologies, with hands-on experience across multiple programming languages, platforms, and frameworks. Over __6 years__ of full-time experience as a __DevOps Engineer/SRE__ and _5+ years_ as a __Software Engineer__, with a strong background in automation, infrastructure, and cloud solutions. Proven ability to lead and mentor teams of up to 12 members, fostering collaboration and technical excellence. Specialized in Startup environments, bringing adaptability, innovation, and a results-driven mindset to fast-paced, high-growth teams.
 >
 > a.k.a. @acactown
 
