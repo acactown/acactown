@@ -2,19 +2,22 @@
 
 <img align='right' src="https://github.com/acactown/acactown/raw/main/img/photo-1.png" width="230" />
 
->A proactive, hands-on leader with a deep passion for technology. Experienced in designing and optimizing cloud-native architectures, with expertise in Docker (Ambassador) and Kubernetes (enthusiast). Strong critical thinking and decision-making skills, excelling at solving complex problems efficiently. Passionate about knowledge sharing—always eager to teach and learn. A Sci-Fi enthusiast and lifelong TMNT fan 🐢 ❤️ `:wq`
->
->Broad expertise in emerging technologies, with hands-on experience across multiple programming languages, platforms, and frameworks. Over __6 years__ of full-time experience as a __DevOps Engineer/SRE__ and __5+ years__ as a __Software Engineer__, with a strong background in automation, infrastructure, and cloud solutions. Proven ability to lead and mentor teams of up to 12 members, fostering collaboration and technical excellence.
->
-> a.k.a. @acactown
+🚀 Proactive, Hands-on Leader | DevOps Engineer | Cloud & Automation Expert
+
+>A passionate technologist with a deep expertise in **cloud-native architectures**, **automation**, and **infrastructure optimization**. Enthusiastic about **Docker** (_Ambassador_) and **Kubernetes**, always seeking to enhance performance, scalability, and efficiency.
+
+- 🔹**Problem-Solver & Innovator** – Strong critical thinking and decision-making skills, excelling at tackling complex challenges with scalable, well-architected solutions.
+- 🔹**Mentor & Knowledge-Sharer** – Committed to fostering collaboration, mentoring teams, and continuously learning and teaching.
+- 🔹**Proven Experience** – Over 10 years as a DevOps Engineer/SRE and 5+ years as a Software Engineer, with hands-on expertise in automation, CI/CD, cloud solutions, and infrastructure as code. Successfully led and mentored teams of up to 12 members.
+
+💡 Sci-Fi enthusiast, lifelong **TMNT fan** 🐢❤️, and always eager to explore new technologies. a.k.a. `@acactown` `:wq`
 
 ## 👷 Personal stuff
 
 * 🚀 I'm currently learning the huge Kubernetes world
 * ❤️ Open Source lover ❤️
 * 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/acactown)
-* 👾 Fun fact: When I was a kid, I wanted to be the Yo-Yo 🪀 world champion until
-  I knew what I was passionate about; Software and the tech world!
+* 👾 Fun fact: When I was a kid, I wanted to be the Yo-Yo 🪀 world champion until I knew what I was passionate about; Software and the tech world!
 * 👨‍👧 I was lucky to be the father of Luciana Amado González 👧🏽, I feel very proud of it, and I want to be the best dad and the best person that she is teaching me to be every day. 🥰
 * 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/acactown/)
 * 🔖 Checkout my [Resume](https://github.com/acactown/acactown/raw/main/resume.pdf)
@@ -37,7 +40,11 @@ Please feel free to contact me if you want to do a PoC, validate an idea, chat a
 
 ```yaml
 ---
-pronoun: He|Him
+name: "Andrés Amado"
+friends_and_family: "Andrew - ˈændruː'"
+aka: "@acactown"
+pronoun: "he/him/his"
+
 
 summary: |
   I'm a Colombian polyglot, multi-paradigm, non-dogmatic Software Engineer,
