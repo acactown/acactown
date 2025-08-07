@@ -20,7 +20,7 @@
 * 👾 Fun fact: When I was a kid, I wanted to be the Yo-Yo 🪀 world champion until I knew what I was passionate about; Software and the tech world!
 * 👨‍👧 I was lucky to be the father of Luciana Amado González 👧🏽, I feel very proud of it, and I want to be the best dad and the best person that she is teaching me to be every day. 🥰
 * 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/acactown/)
-* 🔖 Checkout my [Resume](https://github.com/acactown/acactown/raw/main/resume.pdf)
+* 🔖 Checkout my [CV](https://github.com/acactown/acactown/raw/main/Andres-Amado-CV.pdf)
 
 ## My absolute favorites
 
